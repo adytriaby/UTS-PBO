@@ -1,5 +1,5 @@
 // ====== Zombie.java ======
-abstract class Zombie {
+public abstract class Zombie {
     protected int level;
     protected double health;
     protected final double maxHealth;
