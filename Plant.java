@@ -1,5 +1,5 @@
 // ====== Plant.java ======
-class Plant {
+public class Plant {
     public void attack(WalkingZombie z) {
         z.destroyed();
         System.out.println("Plant menyerang WalkingZombie (-20%)");

@@ -1,5 +1,5 @@
 // ====== Barrier.java ======
-class Barrier {
+public class Barrier {
     private int strength;
 
     public Barrier(int strength) { this.strength = Math.max(0, strength); }

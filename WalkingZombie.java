@@ -1,5 +1,5 @@
 // ====== WalkingZombie.java ======
-class WalkingZombie extends Zombie {
+public class WalkingZombie extends Zombie {
     public WalkingZombie(int level, double health) { super(level, health); }
 
     @Override
